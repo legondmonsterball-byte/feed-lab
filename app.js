@@ -25,7 +25,7 @@
       s.innerHTML =
         '<div class="player-box"></div>' +
         '<div class="info"><div class="title"></div><div class="channel"></div><div class="hint">탭해서 재생</div>' +
-        '<textarea class="memo" rows="2" placeholder="한 줄 메모 (자동 저장)"></textarea>' +
+        '<textarea class="memo" rows="1" placeholder="한 줄 메모 (자동 저장)"></textarea>' +
         '<div class="row"><button class="btn heart" aria-label="좋아요">♡</button>' +
         '<button class="btn snd" aria-label="소리">🔇</button>' +
         '<a class="btn ghost" target="_blank" rel="noopener">YouTube에서 보기</a>' +
