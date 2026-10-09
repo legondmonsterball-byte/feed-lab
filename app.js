@@ -5,11 +5,17 @@
   var dbg = document.getElementById('debug');
   var errEl = document.getElementById('errs');
   var MUTE = /[?&]mute=1/.test(location.search);
-  var st = { cur: -1, errors: 0, apOk: 0, apFail: 0, mounted: 0, player: null, pending: -1, apiReady: false, timer: 0, counted: false };
+  var st = { sound: false, cur: -1, errors: 0, apOk: 0, apFail: 0, mounted: 0, player: null, pending: -1, apiReady: false, timer: 0, counted: false };
   var slides = [];
 
   function hearts() { try { return JSON.parse(localStorage.getItem('feedlab-hearts') || '{}'); } catch (e) { return {}; } }
   function saveHearts(h) { try { localStorage.setItem('feedlab-hearts', JSON.stringify(h)); } catch (e) {} }
+
+  function memos() { try { return JSON.parse(localStorage.getItem('feedlab-memos') || '{}'); } catch (e) { return {}; } }
+  function saveMemo(id, t) {
+    var m = memos(); if (t) m[id] = t; else delete m[id];
+    try { localStorage.setItem('feedlab-memos', JSON.stringify(m)); } catch (e) {}
+  }
 
   function render() {
     var h = hearts();
@@ -19,12 +25,22 @@
       s.innerHTML =
         '<div class="player-box"></div>' +
         '<div class="info"><div class="title"></div><div class="channel"></div><div class="hint">탭해서 재생</div>' +
+        '<textarea class="memo" rows="2" placeholder="한 줄 메모 (자동 저장)"></textarea>' +
         '<div class="row"><button class="btn heart" aria-label="좋아요">♡</button>' +
+        '<button class="btn snd" aria-label="소리">🔇</button>' +
         '<a class="btn ghost" target="_blank" rel="noopener">YouTube에서 보기</a>' +
         '<button class="btn next">다음 ↓</button></div></div>';
       s.querySelector('.title').textContent = v.title;
       s.querySelector('.channel').textContent = v.channel || '';
       s.querySelector('a').href = 'https://www.youtube.com/watch?v=' + v.id;
+      var mm = s.querySelector('.memo');
+      mm.value = memos()[v.id] || '';
+      mm.oninput = function () { saveMemo(v.id, mm.value.trim()); };
+      s.querySelector('.snd').onclick = function () {
+        st.sound = !st.sound;
+        if (st.player) { try { st.sound ? st.player.unMute() : st.player.mute(); } catch (e) {} }
+        syncSnd();
+      };
       var hb = s.querySelector('.heart');
       if (h[v.id]) { hb.classList.add('on'); hb.textContent = '♥'; }
       hb.onclick = function () {
@@ -36,6 +52,10 @@
       slides.push(s);
       showThumb(i);
     });
+  }
+
+  function syncSnd() {
+    slides.forEach(function (sl) { sl.querySelector('.snd').textContent = st.sound ? '🔊' : '🔇'; });
   }
 
   function box(i) { return slides[i].querySelector('.player-box'); }
@@ -69,7 +89,7 @@
     hint(i, byTap ? '재생 중…' : '자동재생 시도 중…');
     try {
       var vars = { playsinline: 1, rel: 0, modestbranding: 1, autoplay: 1, origin: location.origin };
-      if (MUTE) vars.mute = 1;
+      if (MUTE || !st.sound) vars.mute = 1;
       st.mounted++;
       st.player = new YT.Player(target, {
         videoId: V[i].id, width: '100%', height: '100%', playerVars: vars,
