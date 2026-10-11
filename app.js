@@ -94,7 +94,10 @@
       st.player = new YT.Player(target, {
         videoId: V[i].id, width: '100%', height: '100%', playerVars: vars,
         events: {
-          onReady: function (e) { try { e.target.playVideo(); } catch (x) {} },
+          onReady: function (e) {
+            var t = e.target;
+            [0, 700, 1600].forEach(function (d) { setTimeout(function () { if (st.cur === i && st.player === t) { try { var s = t.getPlayerState(); if (s !== 1 && s !== 3) t.playVideo(); } catch (x) {} } }, d); });
+          },
           onStateChange: function (e) {
             if (st.cur !== i) return;
             if (e.data === 1) { settle(true, i); hint(i, '재생 중'); }
@@ -105,7 +108,7 @@
       });
     } catch (x) { st.mounted = Math.max(0, st.mounted - 1); onErr(i, 'ctor'); }
     clearTimeout(st.timer);
-    st.timer = setTimeout(function () { if (st.cur === i) settle(false, i); }, 2500);
+    st.timer = setTimeout(function () { if (st.cur === i) settle(false, i); }, 3800);
     upd();
   }
 
