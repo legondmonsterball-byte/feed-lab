@@ -32,7 +32,8 @@ def is_short(vid):
 def embeddable(vid):
     u = urllib.parse.quote(f"https://www.youtube.com/watch?v={vid}", safe="")
     code, _ = get(f"https://www.youtube.com/oembed?url={u}&format=json")
-    return code == 200, code
+    # 401(임베드 금지)/404(삭제·비공개)만 확정 제외. 403/429/5xx는 GitHub 서버 IP 차단 등 '확인 불가'라 통과시킴(앱이 임베드 오류 시 자동 건너뜀)
+    return code not in (401, 404), code
 
 def norm(s): return re.sub(r"[\s\-_·]", "", s).lower()
 
@@ -71,6 +72,7 @@ def main():
                     ok, c = embeddable(vid)
                     if not ok:
                         st["noembed"] += 1; print(f"  제외(임베드불가 {c}) {vid} {vt[:20]}"); continue
+                    if c != 200: print(f"  (oEmbed {c}: 확인 불가, 통과) {vid}")
                     seen.add(vid); st["ok"] += 1
                     out.append(dict(id=vid, title=vt, channel=ch["name"], field=ch["field"], publishedAt=pub, fetchedAt=fetched))
                 except Exception as x:
