@@ -4,7 +4,8 @@
 쇼츠형 위아래 피드가 약관 안에서 실제로 굴러가는지 확인. 정적 HTML/JS/CSS, 빌드 도구 없음.
 
 ## 파일
-- index.html / style.css / app.js(피드·플레이어 로직) / videos.js(영상 목록, 여기만 고치면 교체됨)
+- index.html / style.css / app.js(피드·플레이어·믹싱·첫화면·설정) / videos.json(자동 생성, 수정 금지) / videos.js(videos.json 실패 시 영어 샘플 폴백)
+- channels.json(채널 목록+분야, 여기만 고치면 수집 대상 변경) / scripts/collect.py(수집, Python 표준라이브러리만) / .github/workflows/collect.yml(하루 2회 + 수동)
 - 주소 끝 `?mute=1` 이면 음소거로 시작(자동재생 성공률 비교용)
 
 ## 규칙(약관 관련, 바꾸지 말 것)
@@ -17,7 +18,21 @@
 - 초기 12개는 2026-10-09에 oEmbed(200)로 임베드 가능, /shorts/ 주소로 쇼츠 형식 확인한 영어 지식 쇼츠(MinuteEarth, Veritasium, Kurzgesagt). 한국어 쇼츠는 아직 못 찾음.
 - 쇼츠 형(세로) 영상이므로 플레이어 칸 안에서 가운데 정렬 + 좌우 검은 여백으로 보임(정상).
 
-## 진행 상황 (2026-10-09)
+## 수집 (키 없음, 무료)
+- 채널 RSS -> /shorts/ID 요청(200이면 쇼츠, 리다이렉트면 아님) -> oEmbed 임베드 확인 -> videos.json. 매 실행마다 새로 만들어서 옛 항목 자동 제거(최근 180일 영상만, fetchedAt 기록: 약관상 API 데이터 30일 내 갱신 원칙).
+- 주의: 쇼츠 판별 방식은 비공식이라 유튜브가 바꾸면 깨질 수 있음(깨지면 쇼츠 0건이 되니 로그 확인). RSS는 채널당 최신 15개뿐.
+- 채널 제목이 channels.json 이름과 안 맞으면 해당 채널 건너뜀. 수집 0건이면 기존 videos.json 유지.
+- 로컬 실행: python3 scripts/collect.py / 수동 실행: gh workflow run collect-videos
+
+## 앱 동작 (v5)
+- 믹싱: 같은 분야 3연속 금지, 같은 채널 최근 10개 중복 금지, 본 영상(localStorage feedlab-seen) 제외. 기본 내 관심 70% + 낯선 30%, 설정에서 완전 랜덤 전환.
+- localStorage: feedlab-interests, feedlab-mix, feedlab-seen, feedlab-events(섞기 변경 등 로그, 서버 전송 없음).
+- 첫 진입 화면(관심 분야 선택), 설정 화면(별도 화면, 영상 위 오버레이 아님), 10개 시청 시 돌아보기 카드 1회, 정우열 채널엔 의료 문구.
+
+## 진행 상황 (2026-10-12)
+- 2단계: 채널 자동수집 + 분야 믹싱 추가. 폰 검증은 사용자 몫.
+
+## 이전 진행 상황 (2026-10-09)
 - 1단계 페이지 작성 + GitHub Pages 배포. 폰 검증은 사용자 몫(대기 중).
 
 ## 알려진 한계 / 다음 단계

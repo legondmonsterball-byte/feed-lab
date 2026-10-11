@@ -30,3 +30,19 @@ button,a{touch-action:manipulation;-webkit-user-select:none;user-select:none;-we
 .btn.next{margin-left:auto}
 #debug{flex:none;padding:6px 12px calc(6px + env(safe-area-inset-bottom));font:11px/1.4 ui-monospace,Menlo,monospace;color:var(--dim);background:#000;word-break:keep-all}
 @media (hover:hover) and (pointer:fine){.btn:hover{background:rgba(34,230,255,.22)}}
+/* v5: 설정 버튼, 첫 화면/설정 화면, 카드 칸, 의료 문구 */
+#gear{margin-left:10px;border:0;background:rgba(255,255,255,.08);border-radius:8px;padding:3px 10px;font-size:12px;color:var(--fg)}
+#screen{position:fixed;inset:0;z-index:5;background:var(--bg);padding:calc(env(safe-area-inset-top) + 40px) 20px 24px;overflow-y:auto;display:flex;flex-direction:column;gap:18px}
+#screen[hidden]{display:none}
+#screen h1{font-size:22px;line-height:1.35}
+#screen p{color:var(--dim);font-size:14px}
+#screen h2{font-size:14px;color:var(--dim);font-weight:600}
+.chips{display:flex;flex-wrap:wrap;gap:10px}
+.chip{height:44px;padding:0 18px;border-radius:22px;border:1.5px solid rgba(255,255,255,.18);background:transparent;font-size:15px;font-weight:600}
+.chip.on{border-color:var(--pt);background:rgba(34,230,255,.16);color:var(--pt)}
+.btn.wide{justify-content:center;width:100%}
+.btn:disabled{opacity:.35}
+.card{align-items:center;justify-content:center;text-align:center;padding:24px;gap:14px}
+.card .big{font-size:20px;font-weight:700;line-height:1.4}
+.card .sub{font-size:14px;color:var(--dim)}
+.med{font-size:11px;color:var(--dim)}
