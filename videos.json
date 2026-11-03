@@ -5,7 +5,7 @@
   "channel": "슈카월드",
   "field": "경제",
   "publishedAt": "2026-10-27T06:50:22+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "JYKRXrbA5x4",
@@ -13,15 +13,23 @@
   "channel": "슈카월드",
   "field": "경제",
   "publishedAt": "2026-10-22T08:39:32+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
-  "id": "qpu_kIMdo0k",
-  "title": "주식시장 K-사고방식",
-  "channel": "슈카월드",
+  "id": "KJDqpAOSco0",
+  "title": "니니가 물타기 못하는 이유",
+  "channel": "머니코믹스",
   "field": "경제",
-  "publishedAt": "2026-10-21T05:09:04+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "publishedAt": "2026-11-03T08:00:16+00:00",
+  "fetchedAt": "2026-11-03T16:53:01Z"
+ },
+ {
+  "id": "YJB4I75hcmc",
+  "title": "인생에 역경이 올 때 뭐 살까요?",
+  "channel": "머니코믹스",
+  "field": "경제",
+  "publishedAt": "2026-11-03T03:28:00+00:00",
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "adtTTCDTFF8",
@@ -29,7 +37,7 @@
   "channel": "머니코믹스",
   "field": "경제",
   "publishedAt": "2026-11-02T02:41:14+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "lO1KCuPlcuo",
@@ -37,7 +45,7 @@
   "channel": "머니코믹스",
   "field": "경제",
   "publishedAt": "2026-11-02T02:38:09+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "Qb-49x86cJA",
@@ -45,7 +53,7 @@
   "channel": "머니코믹스",
   "field": "경제",
   "publishedAt": "2026-11-01T01:39:34+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "V7T9aPUrdD0",
@@ -53,7 +61,7 @@
   "channel": "머니코믹스",
   "field": "경제",
   "publishedAt": "2026-11-01T00:41:46+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "p9PqJ61lg3w",
@@ -61,7 +69,7 @@
   "channel": "머니코믹스",
   "field": "경제",
   "publishedAt": "2026-10-30T02:46:47+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "As_g3UyIa2Y",
@@ -69,23 +77,7 @@
   "channel": "머니코믹스",
   "field": "경제",
   "publishedAt": "2026-10-29T09:10:37+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
- },
- {
-  "id": "LdJyl_wt_ao",
-  "title": "두에빌, 지금이 기회일까(엉드루, 티커좌)",
-  "channel": "머니코믹스",
-  "field": "경제",
-  "publishedAt": "2026-10-29T06:23:46+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
- },
- {
-  "id": "qLXHZm_9mX0",
-  "title": "두에빌 네가 사라며",
-  "channel": "머니코믹스",
-  "field": "경제",
-  "publishedAt": "2026-10-29T03:10:22+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "ersBqwt7d4c",
@@ -93,7 +85,7 @@
   "channel": "지식한입",
   "field": "경제",
   "publishedAt": "2026-10-30T08:03:11+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "tQMUTXkP3Uk",
@@ -101,7 +93,7 @@
   "channel": "지식한입",
   "field": "경제",
   "publishedAt": "2026-10-26T08:01:33+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "mtJUxT8Tjs0",
@@ -109,7 +101,7 @@
   "channel": "지식한입",
   "field": "경제",
   "publishedAt": "2026-09-14T08:00:14+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "sUIYq_e5Rho",
@@ -117,7 +109,15 @@
   "channel": "지식한입",
   "field": "경제",
   "publishedAt": "2026-09-06T02:00:21+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
+ },
+ {
+  "id": "7ivFvSBTUWk",
+  "title": "테슬라 로드스터에 스페이스X 기술을 넣은 이유는?!",
+  "channel": "안될과학",
+  "field": "과학",
+  "publishedAt": "2026-11-03T02:46:10+00:00",
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "VIoGZnFZ_EQ",
@@ -125,7 +125,7 @@
   "channel": "안될과학",
   "field": "과학",
   "publishedAt": "2026-11-02T02:25:02+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "4O4tolNO4Jk",
@@ -133,7 +133,7 @@
   "channel": "안될과학",
   "field": "과학",
   "publishedAt": "2026-11-01T11:00:22+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "2wB2SsEVGb8",
@@ -141,7 +141,7 @@
   "channel": "안될과학",
   "field": "과학",
   "publishedAt": "2026-10-31T11:00:08+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "pRJuQtkqPdE",
@@ -149,7 +149,7 @@
   "channel": "안될과학",
   "field": "과학",
   "publishedAt": "2026-10-30T02:00:31+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "LdGYs8IxSjQ",
@@ -157,7 +157,7 @@
   "channel": "안될과학",
   "field": "과학",
   "publishedAt": "2026-10-29T02:24:15+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "i4mb5xpNJjg",
@@ -165,7 +165,15 @@
   "channel": "안될과학",
   "field": "과학",
   "publishedAt": "2026-10-28T02:31:28+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
+ },
+ {
+  "id": "neT_Qd8LlxE",
+  "title": "머리를 안 쓰면 지능이 퇴화할까?",
+  "channel": "사물궁이 잡학지식",
+  "field": "과학",
+  "publishedAt": "2026-11-03T09:08:25+00:00",
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "UTq0nsKWzY8",
@@ -173,7 +181,7 @@
   "channel": "사물궁이 잡학지식",
   "field": "과학",
   "publishedAt": "2026-11-01T09:05:01+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "POnIuGc4LeM",
@@ -181,7 +189,7 @@
   "channel": "사물궁이 잡학지식",
   "field": "과학",
   "publishedAt": "2026-10-30T08:37:54+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "nrk3SM1ogEY",
@@ -189,7 +197,7 @@
   "channel": "사물궁이 잡학지식",
   "field": "과학",
   "publishedAt": "2026-10-27T09:06:16+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "7n73Vp3PJhs",
@@ -197,7 +205,7 @@
   "channel": "사물궁이 잡학지식",
   "field": "과학",
   "publishedAt": "2026-10-25T09:14:03+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "pEKTofHs2Ps",
@@ -205,7 +213,7 @@
   "channel": "사물궁이 잡학지식",
   "field": "과학",
   "publishedAt": "2026-10-22T04:38:18+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "xaWBzROS_64",
@@ -213,7 +221,7 @@
   "channel": "사물궁이 잡학지식",
   "field": "과학",
   "publishedAt": "2026-10-20T09:04:44+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "bPPH17m-P1c",
@@ -221,7 +229,7 @@
   "channel": "사물궁이 잡학지식",
   "field": "과학",
   "publishedAt": "2026-10-18T09:23:34+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "qq13EcUjOHE",
@@ -229,7 +237,7 @@
   "channel": "사물궁이 잡학지식",
   "field": "과학",
   "publishedAt": "2026-10-17T11:28:58+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "hNQvI310pfY",
@@ -237,7 +245,7 @@
   "channel": "사물궁이 잡학지식",
   "field": "과학",
   "publishedAt": "2026-10-13T09:10:31+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "LAve9PChHM8",
@@ -245,7 +253,7 @@
   "channel": "사물궁이 잡학지식",
   "field": "과학",
   "publishedAt": "2026-10-11T09:01:17+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "B37W0Lz5qbE",
@@ -253,15 +261,7 @@
   "channel": "사물궁이 잡학지식",
   "field": "과학",
   "publishedAt": "2026-10-06T09:09:22+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
- },
- {
-  "id": "DiIfIWjTPWA",
-  "title": "입에서 가끔 나오는 노란 알맹이의 정체는?",
-  "channel": "사물궁이 잡학지식",
-  "field": "과학",
-  "publishedAt": "2026-10-04T09:01:49+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "724zoYOiqSk",
@@ -269,7 +269,7 @@
   "channel": "최태성 1TV",
   "field": "역사",
   "publishedAt": "2026-11-02T09:20:33+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "E03eyj5g8-E",
@@ -277,7 +277,7 @@
   "channel": "최태성 1TV",
   "field": "역사",
   "publishedAt": "2026-10-08T23:00:36+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "2FSZyBm_Mxs",
@@ -285,7 +285,7 @@
   "channel": "최태성 1TV",
   "field": "역사",
   "publishedAt": "2026-10-02T23:00:16+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "p4Wk8H5WL7A",
@@ -293,7 +293,7 @@
   "channel": "최태성 1TV",
   "field": "역사",
   "publishedAt": "2026-09-24T23:00:28+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "Dd8O0EmJniw",
@@ -301,7 +301,7 @@
   "channel": "두선생의 역사공장",
   "field": "역사",
   "publishedAt": "2026-10-30T02:53:30+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "ct56zed7PxA",
@@ -309,7 +309,7 @@
   "channel": "두선생의 역사공장",
   "field": "역사",
   "publishedAt": "2026-10-26T02:54:02+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "1e0XDNjfgAo",
@@ -317,7 +317,7 @@
   "channel": "두선생의 역사공장",
   "field": "역사",
   "publishedAt": "2026-10-12T03:44:27+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "Qg0QWiUUnrw",
@@ -325,7 +325,7 @@
   "channel": "두선생의 역사공장",
   "field": "역사",
   "publishedAt": "2026-10-08T00:40:46+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "awJGoNlbv4I",
@@ -333,7 +333,7 @@
   "channel": "두선생의 역사공장",
   "field": "역사",
   "publishedAt": "2026-10-05T01:56:45+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "wBuHCuumA6s",
@@ -341,7 +341,7 @@
   "channel": "두선생의 역사공장",
   "field": "역사",
   "publishedAt": "2026-10-04T02:24:24+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "ta3lArKuck4",
@@ -349,7 +349,7 @@
   "channel": "두선생의 역사공장",
   "field": "역사",
   "publishedAt": "2026-09-18T00:02:55+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "to0eXMSWmpc",
@@ -357,7 +357,7 @@
   "channel": "두선생의 역사공장",
   "field": "역사",
   "publishedAt": "2026-09-08T06:44:09+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "1fBBhjyre0w",
@@ -365,7 +365,7 @@
   "channel": "두선생의 역사공장",
   "field": "역사",
   "publishedAt": "2026-09-07T06:08:36+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "SHBRdSuJs3w",
@@ -373,7 +373,15 @@
   "channel": "두선생의 역사공장",
   "field": "역사",
   "publishedAt": "2026-09-05T07:13:21+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
+ },
+ {
+  "id": "ME1IPPWUsJI",
+  "title": "재혼과 상속이 자유로웠던 고려 여인",
+  "channel": "히스토랑 역사맛집",
+  "field": "역사",
+  "publishedAt": "2026-11-03T07:15:37+00:00",
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "B0evz4Si_io",
@@ -381,7 +389,7 @@
   "channel": "히스토랑 역사맛집",
   "field": "역사",
   "publishedAt": "2026-11-01T08:15:06+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "WIcZts9oYHs",
@@ -389,7 +397,7 @@
   "channel": "히스토랑 역사맛집",
   "field": "역사",
   "publishedAt": "2026-10-29T08:15:32+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "7XrkJCJsgic",
@@ -397,7 +405,7 @@
   "channel": "히스토랑 역사맛집",
   "field": "역사",
   "publishedAt": "2026-10-27T08:15:23+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "KdRgqer1Upo",
@@ -405,7 +413,7 @@
   "channel": "히스토랑 역사맛집",
   "field": "역사",
   "publishedAt": "2026-10-25T08:45:30+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "wfcOnWAyiqw",
@@ -413,7 +421,7 @@
   "channel": "히스토랑 역사맛집",
   "field": "역사",
   "publishedAt": "2026-10-23T07:15:06+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "1GvK6KpRDZk",
@@ -421,7 +429,7 @@
   "channel": "히스토랑 역사맛집",
   "field": "역사",
   "publishedAt": "2026-10-21T07:15:39+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "1FVnKpiEqHc",
@@ -429,7 +437,7 @@
   "channel": "히스토랑 역사맛집",
   "field": "역사",
   "publishedAt": "2026-10-20T07:15:27+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "LTmjjCjaIjo",
@@ -437,7 +445,7 @@
   "channel": "히스토랑 역사맛집",
   "field": "역사",
   "publishedAt": "2026-10-19T07:15:14+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "YTZrBOYsS7o",
@@ -445,7 +453,7 @@
   "channel": "히스토랑 역사맛집",
   "field": "역사",
   "publishedAt": "2026-10-18T07:15:01+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "rEdhWQzS1pQ",
@@ -453,7 +461,7 @@
   "channel": "히스토랑 역사맛집",
   "field": "역사",
   "publishedAt": "2026-10-17T07:15:32+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "AK2JUXZUZ8I",
@@ -461,7 +469,7 @@
   "channel": "히스토랑 역사맛집",
   "field": "역사",
   "publishedAt": "2026-10-15T07:15:06+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "rZ3QGUB9yVw",
@@ -469,7 +477,7 @@
   "channel": "히스토랑 역사맛집",
   "field": "역사",
   "publishedAt": "2026-10-13T07:15:26+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "ovEShPcSN0k",
@@ -477,7 +485,7 @@
   "channel": "히스토랑 역사맛집",
   "field": "역사",
   "publishedAt": "2026-10-12T07:15:38+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "4UFWEqx60Ak",
@@ -485,15 +493,63 @@
   "channel": "히스토랑 역사맛집",
   "field": "역사",
   "publishedAt": "2026-10-11T07:15:10+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
-  "id": "oE28UMLWa-E",
-  "title": "양반보다 돈이 많았던 조선시대 '부자 노비'의 정체",
-  "channel": "히스토랑 역사맛집",
-  "field": "역사",
-  "publishedAt": "2026-10-10T07:15:11+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "id": "IFC3sWCo0C4",
+  "title": "아이폰 듀오를 맥북으로 만드는 법",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-03T13:00:01+00:00",
+  "fetchedAt": "2026-11-03T16:53:01Z"
+ },
+ {
+  "id": "V-mFztCvapc",
+  "title": "8.5조원이 털려버린 사상 최악의 암호화폐 해킹사고",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-03T12:00:04+00:00",
+  "fetchedAt": "2026-11-03T16:53:01Z"
+ },
+ {
+  "id": "244636L-gGc",
+  "title": "맥에 숨어있는 기능을 끌어쓰는 방법",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-03T11:00:03+00:00",
+  "fetchedAt": "2026-11-03T16:53:01Z"
+ },
+ {
+  "id": "5F7HnUbVh6Q",
+  "title": "MS, 직원 1/4인 6만명에게 희망퇴직 제안ㄷㄷ",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-03T10:30:32+00:00",
+  "fetchedAt": "2026-11-03T16:53:01Z"
+ },
+ {
+  "id": "2fwKOJAuW3I",
+  "title": "출시도 전에 스타트업을 없애버리는 방법;;;",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-03T09:00:03+00:00",
+  "fetchedAt": "2026-11-03T16:53:01Z"
+ },
+ {
+  "id": "k_5y1-0Zd7s",
+  "title": "구글의 1등 탈환!! 근데 주가는 왜????",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-03T07:00:03+00:00",
+  "fetchedAt": "2026-11-03T16:53:01Z"
+ },
+ {
+  "id": "_B7yYMflw-g",
+  "title": "숨바꼭질의 꼼수를 스스로 찾아내버린 AI",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-03T05:00:09+00:00",
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "f3XvOfhjNZE",
@@ -501,7 +557,7 @@
   "channel": "조코딩",
   "field": "IT",
   "publishedAt": "2026-10-31T09:54:33+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "SdXqSqwk620",
@@ -509,7 +565,7 @@
   "channel": "조코딩",
   "field": "IT",
   "publishedAt": "2026-10-31T02:57:06+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "fxlpfCEIGUc",
@@ -517,7 +573,7 @@
   "channel": "조코딩",
   "field": "IT",
   "publishedAt": "2026-10-30T12:00:23+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "lUi7OVENQHs",
@@ -525,7 +581,7 @@
   "channel": "조코딩",
   "field": "IT",
   "publishedAt": "2026-10-30T10:00:30+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "1rDlR0UxGE4",
@@ -533,7 +589,7 @@
   "channel": "조코딩",
   "field": "IT",
   "publishedAt": "2026-10-30T09:00:03+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "SCr2l-0qEMM",
@@ -541,55 +597,7 @@
   "channel": "조코딩",
   "field": "IT",
   "publishedAt": "2026-10-30T07:00:34+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
- },
- {
-  "id": "nLSh7E2xEEY",
-  "title": "AI가 산토끼 때문에 미쳐버린 이유",
-  "channel": "조코딩",
-  "field": "IT",
-  "publishedAt": "2026-10-30T05:00:05+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
- },
- {
-  "id": "0HlAQqAV3Zs",
-  "title": "미친 출혈경쟁을 시작한 영상AI ㄷㄷ",
-  "channel": "조코딩",
-  "field": "IT",
-  "publishedAt": "2026-10-29T11:00:12+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
- },
- {
-  "id": "QovrqJx1goM",
-  "title": "수상할 정도로 무술이 뛰어난 유니트리 로봇",
-  "channel": "조코딩",
-  "field": "IT",
-  "publishedAt": "2026-10-29T09:00:04+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
- },
- {
-  "id": "bFadYpjA0y8",
-  "title": "아직도 그거 쓰냐?",
-  "channel": "조코딩",
-  "field": "IT",
-  "publishedAt": "2026-10-29T08:00:18+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
- },
- {
-  "id": "JpwuLJK0Lu4",
-  "title": "숨어도 숨어도 총에 맞는 이유",
-  "channel": "조코딩",
-  "field": "IT",
-  "publishedAt": "2026-10-29T07:00:30+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
- },
- {
-  "id": "2SYNXdTjRKs",
-  "title": "GPT와의 대화를 보호하는 신기능 ㄷㄷ",
-  "channel": "조코딩",
-  "field": "IT",
-  "publishedAt": "2026-10-29T05:00:13+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "_70l_qR_Gq4",
@@ -597,7 +605,7 @@
   "channel": "안될공학",
   "field": "IT",
   "publishedAt": "2026-11-02T04:31:00+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "sLQcVJ4M1pQ",
@@ -605,7 +613,7 @@
   "channel": "안될공학",
   "field": "IT",
   "publishedAt": "2026-10-24T04:30:24+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "vvllRxsPnbY",
@@ -613,7 +621,7 @@
   "channel": "안될공학",
   "field": "IT",
   "publishedAt": "2026-10-23T04:30:34+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "mAe0TO4RDwE",
@@ -621,7 +629,7 @@
   "channel": "안될공학",
   "field": "IT",
   "publishedAt": "2026-10-22T04:30:13+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "K0u6xfLzakI",
@@ -629,7 +637,7 @@
   "channel": "정신과의사 정우열",
   "field": "심리",
   "publishedAt": "2026-10-31T04:14:13+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "Q0EwRChBY30",
@@ -637,7 +645,7 @@
   "channel": "정신과의사 정우열",
   "field": "심리",
   "publishedAt": "2026-10-29T08:41:51+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "HDH56eX6ABE",
@@ -645,7 +653,7 @@
   "channel": "정신과의사 정우열",
   "field": "심리",
   "publishedAt": "2026-10-24T01:06:45+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "KQg2jP1C6NI",
@@ -653,7 +661,7 @@
   "channel": "정신과의사 정우열",
   "field": "심리",
   "publishedAt": "2026-10-20T03:23:16+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "cEMKU1fUln4",
@@ -661,7 +669,7 @@
   "channel": "정신과의사 정우열",
   "field": "심리",
   "publishedAt": "2026-10-14T09:23:33+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "RjEVrWJALcQ",
@@ -669,7 +677,7 @@
   "channel": "정신과의사 정우열",
   "field": "심리",
   "publishedAt": "2026-10-09T13:18:57+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "aMzujRAMZec",
@@ -677,7 +685,7 @@
   "channel": "정신과의사 정우열",
   "field": "심리",
   "publishedAt": "2026-10-05T12:46:59+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "nIJxMQS1Vlc",
@@ -685,7 +693,7 @@
   "channel": "장동선의 궁금한 뇌",
   "field": "심리",
   "publishedAt": "2026-08-20T22:00:03+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  },
  {
   "id": "dnLTuz48-kE",
@@ -693,6 +701,6 @@
   "channel": "장동선의 궁금한 뇌",
   "field": "심리",
   "publishedAt": "2026-08-10T08:00:03+00:00",
-  "fetchedAt": "2026-11-02T19:15:57Z"
+  "fetchedAt": "2026-11-03T16:53:01Z"
  }
 ]
