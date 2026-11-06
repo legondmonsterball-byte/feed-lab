@@ -1,11 +1,627 @@
 [
  {
+  "id": "lioIrGMoIbs",
+  "title": "좋은 사람 있으면 소개시켜줘",
+  "channel": "슈카월드",
+  "field": "경제",
+  "publishedAt": "2026-11-06T14:18:52+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "D32h_sPWp0g",
+  "title": "모르면 못받음",
+  "channel": "슈카월드",
+  "field": "경제",
+  "publishedAt": "2026-11-06T09:43:44+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "QvMjNxpMmPo",
+  "title": "수능 주식 문제 1타 강사",
+  "channel": "슈카월드",
+  "field": "경제",
+  "publishedAt": "2026-11-05T04:42:04+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "prQUpQh_gko",
+  "title": "형들 우리 어깨 걸고 함께 가는거 아니었어요?",
+  "channel": "슈카월드",
+  "field": "경제",
+  "publishedAt": "2026-10-27T06:50:22+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "OeJ-JKlNv_s",
+  "title": "우리가 코스피로 돈을 벌었다고?",
+  "channel": "머니코믹스",
+  "field": "경제",
+  "publishedAt": "2026-11-06T12:43:23+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "ay3FXHM03T8",
+  "title": "주식이 떨어지면 뭘 해야할까",
+  "channel": "머니코믹스",
+  "field": "경제",
+  "publishedAt": "2026-11-06T12:31:37+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "sYr_AxQcpik",
+  "title": "하락장 유머",
+  "channel": "머니코믹스",
+  "field": "경제",
+  "publishedAt": "2026-11-06T08:13:05+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "SmbFOtTIot0",
+  "title": "하보노님 살려주세요",
+  "channel": "머니코믹스",
+  "field": "경제",
+  "publishedAt": "2026-11-06T03:49:57+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "LYXceDpsPYA",
+  "title": "쪼잔하게 돈 버는 법",
+  "channel": "머니코믹스",
+  "field": "경제",
+  "publishedAt": "2026-11-05T09:15:17+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "_8ANk19Ku6A",
+  "title": "왜 반도체한테만 엄격한건데",
+  "channel": "머니코믹스",
+  "field": "경제",
+  "publishedAt": "2026-11-05T08:56:40+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "xsGGzlRlXy8",
+  "title": "왜 내 주식만 안 오를까",
+  "channel": "머니코믹스",
+  "field": "경제",
+  "publishedAt": "2026-11-05T08:28:38+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "KJDqpAOSco0",
+  "title": "니니가 물타기 못하는 이유",
+  "channel": "머니코믹스",
+  "field": "경제",
+  "publishedAt": "2026-11-03T08:00:16+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "YJB4I75hcmc",
+  "title": "인생에 역경이 올 때 뭐 살까요?",
+  "channel": "머니코믹스",
+  "field": "경제",
+  "publishedAt": "2026-11-03T03:28:00+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "ersBqwt7d4c",
+  "title": "한우 정액 3억 어치 훔쳐 도박한 남자",
+  "channel": "지식한입",
+  "field": "경제",
+  "publishedAt": "2026-10-30T08:03:11+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "tQMUTXkP3Uk",
+  "title": "한우 대회 1등한 1억 짜리 한우",
+  "channel": "지식한입",
+  "field": "경제",
+  "publishedAt": "2026-10-26T08:01:33+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "mtJUxT8Tjs0",
+  "title": "뻔하지 않은 추석 선물 종결템",
+  "channel": "지식한입",
+  "field": "경제",
+  "publishedAt": "2026-09-14T08:00:14+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "sUIYq_e5Rho",
+  "title": "피부 깎지 않고 면도하는 법",
+  "channel": "지식한입",
+  "field": "경제",
+  "publishedAt": "2026-09-06T02:00:21+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "sKscW5_NqH8",
+  "title": "4천억 원을 훔치기 위해 6개월간 준비한 북한 해커들?!",
+  "channel": "안될과학",
+  "field": "과학",
+  "publishedAt": "2026-11-06T07:00:28+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "MLWYc9XLOpo",
+  "title": "메모리 정리 실수 하나로 서버가 해킹된다?!",
+  "channel": "안될과학",
+  "field": "과학",
+  "publishedAt": "2026-11-06T02:00:00+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "tY4rfHSnJx0",
+  "title": "해킹당하지 않았는데 개인정보가 유출됐다?!",
+  "channel": "안될과학",
+  "field": "과학",
+  "publishedAt": "2026-11-05T07:00:25+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "uq9O8BdopAI",
+  "title": "웹사이트에 글자 하나만 있어도 해킹당할 수 있다?!",
+  "channel": "안될과학",
+  "field": "과학",
+  "publishedAt": "2026-11-05T02:00:16+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "DalCcKztEdY",
+  "title": "팔콘9이 퇴역한다면, 우리나라 우주산업은?!",
+  "channel": "안될과학",
+  "field": "과학",
+  "publishedAt": "2026-11-04T02:46:09+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "7ivFvSBTUWk",
+  "title": "테슬라 로드스터에 스페이스X 기술을 넣은 이유는?!",
+  "channel": "안될과학",
+  "field": "과학",
+  "publishedAt": "2026-11-03T02:46:10+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "VIoGZnFZ_EQ",
+  "title": "껍데기 방향 때문에 연애를 못하는 달팽이?!",
+  "channel": "안될과학",
+  "field": "과학",
+  "publishedAt": "2026-11-02T02:25:02+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "4O4tolNO4Jk",
+  "title": "영화 속 물의 움직임으로 아카데미상을 받았다?!",
+  "channel": "안될과학",
+  "field": "과학",
+  "publishedAt": "2026-11-01T11:00:22+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "neT_Qd8LlxE",
+  "title": "머리를 안 쓰면 지능이 퇴화할까?",
+  "channel": "사물궁이 잡학지식",
+  "field": "과학",
+  "publishedAt": "2026-11-03T09:08:25+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "UTq0nsKWzY8",
+  "title": "족발·설렁탕 고기 단면에 푸른빛의 정체가 뭘까?",
+  "channel": "사물궁이 잡학지식",
+  "field": "과학",
+  "publishedAt": "2026-11-01T09:05:01+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "POnIuGc4LeM",
+  "title": "전등의 빛을 모아 전기를 만들 수 있을까?",
+  "channel": "사물궁이 잡학지식",
+  "field": "과학",
+  "publishedAt": "2026-10-30T08:37:54+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "nrk3SM1ogEY",
+  "title": "왜 할 일을 자꾸 미루게 될까?",
+  "channel": "사물궁이 잡학지식",
+  "field": "과학",
+  "publishedAt": "2026-10-27T09:06:16+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "7n73Vp3PJhs",
+  "title": "밥을 풀 때 따라 나오는 얇은 막은 무엇일까?",
+  "channel": "사물궁이 잡학지식",
+  "field": "과학",
+  "publishedAt": "2026-10-25T09:14:03+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "pEKTofHs2Ps",
+  "title": "옛날 옥수수는 어떻게 생겼을까?",
+  "channel": "사물궁이 잡학지식",
+  "field": "과학",
+  "publishedAt": "2026-10-22T04:38:18+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "xaWBzROS_64",
+  "title": "빛을 병 안에 가둬둘 수 있을까?",
+  "channel": "사물궁이 잡학지식",
+  "field": "과학",
+  "publishedAt": "2026-10-20T09:04:44+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "bPPH17m-P1c",
+  "title": "사람의 눈 색깔은 왜 이렇게 다양할까?",
+  "channel": "사물궁이 잡학지식",
+  "field": "과학",
+  "publishedAt": "2026-10-18T09:23:34+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "qq13EcUjOHE",
+  "title": "왜 시간은 거꾸로 흐를 수 없을까?",
+  "channel": "사물궁이 잡학지식",
+  "field": "과학",
+  "publishedAt": "2026-10-17T11:28:58+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "hNQvI310pfY",
+  "title": "운동할 때 왜 시간이 느리게 가는 것 같을까?",
+  "channel": "사물궁이 잡학지식",
+  "field": "과학",
+  "publishedAt": "2026-10-13T09:10:31+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "LAve9PChHM8",
+  "title": "왜 바닷물은 짜고, 강물은 짜지 않을까?",
+  "channel": "사물궁이 잡학지식",
+  "field": "과학",
+  "publishedAt": "2026-10-11T09:01:17+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "724zoYOiqSk",
+  "title": "🚨한능검 접수 전 필수 시청 🚨81회 한능검 접수 방법",
+  "channel": "최태성 1TV",
+  "field": "역사",
+  "publishedAt": "2026-11-02T09:20:33+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "E03eyj5g8-E",
+  "title": "[한글날] 우리의 자랑, 한글의 생일입니다!",
+  "channel": "최태성 1TV",
+  "field": "역사",
+  "publishedAt": "2026-10-08T23:00:36+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "2FSZyBm_Mxs",
+  "title": "[개천절] 오늘 하늘이 열렸습니다!",
+  "channel": "최태성 1TV",
+  "field": "역사",
+  "publishedAt": "2026-10-02T23:00:16+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "EaVlq8-oPMU",
+  "title": "1분만에 1시간 전으로 가는 액티비티 #국제뉴스 #스페인 #포르투갈 #액티비티 #스페인여행",
+  "channel": "두선생의 역사공장",
+  "field": "역사",
+  "publishedAt": "2026-11-06T01:52:55+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "GVfKt8n-1JI",
+  "title": "중간선거 한 방에 트럼프 힘이 빠지는 이유 #정치 #뉴스 #미국 #미국정치",
+  "channel": "두선생의 역사공장",
+  "field": "역사",
+  "publishedAt": "2026-11-05T07:32:09+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "WbwRLCzvGR4",
+  "title": "미국 '중간선거'는 왜 있을까? (1) 기초편 #미국선거 #중간선거 #미국뉴스 #국제뉴스",
+  "channel": "두선생의 역사공장",
+  "field": "역사",
+  "publishedAt": "2026-11-04T00:38:31+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "Dd8O0EmJniw",
+  "title": "변화하지 않는 나라는 망한다, 보수주의의 경고 #세계사 #정치 #지식 #이념",
+  "channel": "두선생의 역사공장",
+  "field": "역사",
+  "publishedAt": "2026-10-30T02:53:30+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "ct56zed7PxA",
+  "title": "왕족이 아닌데 왕이 된 이유, 고종의 왕위 계승 비밀 #고종 #한국사 #대원군",
+  "channel": "두선생의 역사공장",
+  "field": "역사",
+  "publishedAt": "2026-10-26T02:54:02+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "1e0XDNjfgAo",
+  "title": "지도 한 장으로 보는 홍콩 vs 마카오, 정반대가 된 이유 #지도 #역사",
+  "channel": "두선생의 역사공장",
+  "field": "역사",
+  "publishedAt": "2026-10-12T03:44:27+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "Qg0QWiUUnrw",
+  "title": "스페인의 역사는 쇼윈도 부부 같음 #분리독립 #지역문제 #세계사 #상식 #지식 #국제뉴스",
+  "channel": "두선생의 역사공장",
+  "field": "역사",
+  "publishedAt": "2026-10-08T00:40:46+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "awJGoNlbv4I",
+  "title": "'각하'가 대통령을 부르게 된 진짜 이유 #상식 #역사 #한국사 #지식 #두선생",
+  "channel": "두선생의 역사공장",
+  "field": "역사",
+  "publishedAt": "2026-10-05T01:56:45+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "wBuHCuumA6s",
+  "title": "'각하'는 진짜 무슨 뜻이었을까? 1분 안에 알아보기 #상식 #역사 #한국사 #지식",
+  "channel": "두선생의 역사공장",
+  "field": "역사",
+  "publishedAt": "2026-10-04T02:24:24+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "ME1IPPWUsJI",
+  "title": "재혼과 상속이 자유로웠던 고려 여인",
+  "channel": "히스토랑 역사맛집",
+  "field": "역사",
+  "publishedAt": "2026-11-03T07:15:37+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "B0evz4Si_io",
+  "title": "삼국시대 역사책을 찢고 나온 강렬한 단역들",
+  "channel": "히스토랑 역사맛집",
+  "field": "역사",
+  "publishedAt": "2026-11-01T08:15:06+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "WIcZts9oYHs",
+  "title": "아들 덕후 극성 중전마마",
+  "channel": "히스토랑 역사맛집",
+  "field": "역사",
+  "publishedAt": "2026-10-29T08:15:32+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "7XrkJCJsgic",
+  "title": "목숨 건 조선시대 K-뷰티",
+  "channel": "히스토랑 역사맛집",
+  "field": "역사",
+  "publishedAt": "2026-10-27T08:15:23+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "KdRgqer1Upo",
+  "title": "고려 왕실의 충격적인 근친혼",
+  "channel": "히스토랑 역사맛집",
+  "field": "역사",
+  "publishedAt": "2026-10-25T08:45:30+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "wfcOnWAyiqw",
+  "title": "나라를 지옥으로 밀어 넣은 병자호란의 원흉들",
+  "channel": "히스토랑 역사맛집",
+  "field": "역사",
+  "publishedAt": "2026-10-23T07:15:06+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "1GvK6KpRDZk",
+  "title": "전국 팔도를 누빈 조선판 '여행 유튜버'",
+  "channel": "히스토랑 역사맛집",
+  "field": "역사",
+  "publishedAt": "2026-10-21T07:15:39+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "1FVnKpiEqHc",
+  "title": "현대 기술로도 재현 불가한 에밀레종",
+  "channel": "히스토랑 역사맛집",
+  "field": "역사",
+  "publishedAt": "2026-10-20T07:15:27+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "LTmjjCjaIjo",
+  "title": "역사책엔 짧지만 강렬한 고려시대 반전 인물들",
+  "channel": "히스토랑 역사맛집",
+  "field": "역사",
+  "publishedAt": "2026-10-19T07:15:14+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "YTZrBOYsS7o",
+  "title": "역사책을 찢고 나온 삼국시대 미친 존재감",
+  "channel": "히스토랑 역사맛집",
+  "field": "역사",
+  "publishedAt": "2026-10-18T07:15:01+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "rEdhWQzS1pQ",
+  "title": "신라 금관의 기원 미스터리",
+  "channel": "히스토랑 역사맛집",
+  "field": "역사",
+  "publishedAt": "2026-10-17T07:15:32+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "AK2JUXZUZ8I",
+  "title": "집문서 털어간 조선판 타짜와 도박꾼",
+  "channel": "히스토랑 역사맛집",
+  "field": "역사",
+  "publishedAt": "2026-10-15T07:15:06+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "rZ3QGUB9yVw",
+  "title": "첨성대가 천문대가 아니라는 충격적인 증거들",
+  "channel": "히스토랑 역사맛집",
+  "field": "역사",
+  "publishedAt": "2026-10-13T07:15:26+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "ovEShPcSN0k",
+  "title": "고려 귀족들의 수입산 소비 라이프",
+  "channel": "히스토랑 역사맛집",
+  "field": "역사",
+  "publishedAt": "2026-10-12T07:15:38+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "4UFWEqx60Ak",
+  "title": "K-드라마 뺨치는 삼국시대 찐 잉꼬부부",
+  "channel": "히스토랑 역사맛집",
+  "field": "역사",
+  "publishedAt": "2026-10-11T07:15:10+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "T1C-85nvQSg",
+  "title": "앤트로픽이 미래 수요에 계속 베팅하는 이유",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-06T11:00:36+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "sbZTBNR_TYE",
+  "title": "게임 제작에 모션캡쳐가 없어질 수 있다??",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-06T09:00:10+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "vNpf7-58Wc8",
+  "title": "말 겹쳐도 다 알아듣는 미친 전사 AI",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-06T07:00:17+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "AJNTPMiyf_0",
+  "title": "AI 여러 개가 내 컴퓨터를 동시에 조작하게 해주는 오픈소스 ㄷㄷ",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-06T05:00:00+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "Gi5eb1baKHE",
+  "title": "로컬에서 실행 가능한 레전드 노이즈캔슬링 등장",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-05T11:00:31+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "dYwVl8Z29ZA",
+  "title": "84조원 어치 GPU를 때려박겠다는 머스크의 계획",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-05T09:00:12+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "hVuX02Ltkw0",
+  "title": "QR코드에 게임을 눌러담은 개발자",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-05T07:00:03+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "m4K7aZbXkqA",
+  "title": "계정 제한을 시작한 오픈 AI ㄷㄷㄷ",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-05T05:00:07+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "hf2xfgDDqKY",
+  "title": "크레딧까지 뿌리기 시작하는 챗GPT ㄷㄷ (+ 활용법)",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-04T11:00:01+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "cZ8HZDrBpOY",
+  "title": "바이브코딩에 절여진 개발자",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-04T09:00:03+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "G1b5PxcPyWM",
+  "title": "Ctrl+Z 는 아무것도 취소하지 않습니다",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-04T07:00:06+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "9VrDqRayNDs",
+  "title": "2배로 늘어난 챗 GPT 한도!! 근데 좋은건가?",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-04T05:00:38+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "IFC3sWCo0C4",
+  "title": "아이폰 듀오를 맥북으로 만드는 법",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-03T13:00:01+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "V-mFztCvapc",
+  "title": "8.5조원이 털려버린 사상 최악의 암호화폐 해킹사고",
+  "channel": "조코딩",
+  "field": "IT",
+  "publishedAt": "2026-11-03T12:00:04+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
   "id": "_70l_qR_Gq4",
   "title": "테슬라의 할로윈데이",
   "channel": "안될공학",
   "field": "IT",
   "publishedAt": "2026-11-02T04:31:00+00:00",
-  "fetchedAt": "2026-11-06T01:22:42Z"
+  "fetchedAt": "2026-11-06T16:38:06Z"
  },
  {
   "id": "fq4LpGC_JBU",
@@ -13,7 +629,7 @@
   "channel": "안될공학",
   "field": "IT",
   "publishedAt": "2026-10-25T04:30:35+00:00",
-  "fetchedAt": "2026-11-06T01:22:42Z"
+  "fetchedAt": "2026-11-06T16:38:06Z"
  },
  {
   "id": "sLQcVJ4M1pQ",
@@ -21,7 +637,7 @@
   "channel": "안될공학",
   "field": "IT",
   "publishedAt": "2026-10-24T04:30:24+00:00",
-  "fetchedAt": "2026-11-06T01:22:42Z"
+  "fetchedAt": "2026-11-06T16:38:06Z"
  },
  {
   "id": "vvllRxsPnbY",
@@ -29,6 +645,70 @@
   "channel": "안될공학",
   "field": "IT",
   "publishedAt": "2026-10-23T04:30:34+00:00",
-  "fetchedAt": "2026-11-06T01:22:42Z"
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "IZERdun2cVE",
+  "title": "ADHD 특징 : 해야하는데 시작이 안됨 #adhd",
+  "channel": "정신과의사 정우열",
+  "field": "심리",
+  "publishedAt": "2026-11-04T14:05:45+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "K0u6xfLzakI",
+  "title": "기묘한 정신의학의 역사(2)",
+  "channel": "정신과의사 정우열",
+  "field": "심리",
+  "publishedAt": "2026-10-31T04:14:13+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "Q0EwRChBY30",
+  "title": "기묘한 정신의학의 역사",
+  "channel": "정신과의사 정우열",
+  "field": "심리",
+  "publishedAt": "2026-10-29T08:41:51+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "HDH56eX6ABE",
+  "title": "닥터X 계수정 심리분석",
+  "channel": "정신과의사 정우열",
+  "field": "심리",
+  "publishedAt": "2026-10-24T01:06:45+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "KQg2jP1C6NI",
+  "title": "닥터X 계수정 심리분석",
+  "channel": "정신과의사 정우열",
+  "field": "심리",
+  "publishedAt": "2026-10-20T03:23:16+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "cEMKU1fUln4",
+  "title": "배려인 줄 알았는데 떠보기",
+  "channel": "정신과의사 정우열",
+  "field": "심리",
+  "publishedAt": "2026-10-14T09:23:33+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "RjEVrWJALcQ",
+  "title": "내가 싫어서 떠난 게 아닙니다.",
+  "channel": "정신과의사 정우열",
+  "field": "심리",
+  "publishedAt": "2026-10-09T13:18:57+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
+ },
+ {
+  "id": "nIJxMQS1Vlc",
+  "title": "의지보다 환경이 중요해요",
+  "channel": "장동선의 궁금한 뇌",
+  "field": "심리",
+  "publishedAt": "2026-08-20T22:00:03+00:00",
+  "fetchedAt": "2026-11-06T16:38:06Z"
  }
 ]
